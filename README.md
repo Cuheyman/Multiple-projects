@@ -18,5 +18,3 @@ Reflecting on my journey of learning JavaScript, it's clear that the process was
 In conclusion, learning JavaScript has been a journey of constant improvement, filled with challenges, discoveries, and achievements. It has equipped me with a solid foundation in web development and a passion for exploring new technologies. As I continue to build on this foundation, I am excited about the endless possibilities that lie ahead in the ever-evolving landscape of web technology.
 
 
-
-//////
