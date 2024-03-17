@@ -284,3 +284,5 @@ const sortSongs = () => {
 
 renderSongs(sortSongs());
 setPlayButtonAccessibleText();
+
+// Path: Project-3/style.css
