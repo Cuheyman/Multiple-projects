@@ -287,3 +287,4 @@ setPlayButtonAccessibleText();
 
 // Path: Project-3/style.css gf
 // Updating the CSS file to style the playlist and player
+// Path: Project-3/index.html
