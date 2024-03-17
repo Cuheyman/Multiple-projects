@@ -285,4 +285,5 @@ const sortSongs = () => {
 renderSongs(sortSongs());
 setPlayButtonAccessibleText();
 
-// Path: Project-3/style.css
+// Path: Project-3/style.css gf
+// Updating the CSS file to style the playlist and player
