@@ -19,6 +19,3 @@ taskData.forEach(task) {
 
 
 
-function reset ( ) =>{
-
-}  
