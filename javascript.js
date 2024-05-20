@@ -19,3 +19,14 @@ taskData.forEach(task) {
 
 
 
+const sortedValues = inputValues.sort((a, b) => {
+  for(i = 0; i <inputValues.length; i++) {
+    if(array[i] < 0 ) {
+      inputValues.sort(a);
+    } else if( array[i] > 0){
+      inputValues.sort(b)
+    } else {
+      return a-b;
+    }
+  }
+});
