@@ -289,4 +289,3 @@ setPlayButtonAccessibleText();
 // Updating the CSS file to style the playlist and player
 // Path: Project-3/index.html
 // Adding the audio player and playlist to the HTML file
-// Testing the application
